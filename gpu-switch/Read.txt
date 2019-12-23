@@ -1,0 +1,5 @@
+To solve the black screen or code 12 error:
+1.you need to install visual studio pack 2013 x86 first
+2.Also put the apple_set_os.efi in ,/EFI/Boot/bootx64.efi(the renamed efi file), a structured usb stick or by using reFind(not sure how to do it yet?)
+3.run the integrated.bat with administer authorization. 
+4.Reboot and boot into the usb boot option (created in the second step) when choosing which system to boot by pressing alt key after the chime.
